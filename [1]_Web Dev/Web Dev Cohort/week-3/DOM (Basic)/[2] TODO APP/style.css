@@ -1,0 +1,47 @@
+.TaskList{
+    background-color: rgba(0, 0, 0, 0.473);
+    width: 50%;
+}
+.Counter{
+    background-color: black;
+    color: whitesmoke;
+    width: 50%;
+    
+}
+
+.Cnt_Task{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0%;
+    
+    
+}
+.Insert_And_Add{
+    gap: 10px;
+    padding: 10px;
+}
+.body{
+    background-color: rgba(0, 0, 0, 0.853);
+    color: rgba(255, 255, 255, 0.854);
+    font-family: sans-serif;
+}
+
+.TaskDiv{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    border-bottom-width: 10px solid;
+
+    margin-bottom: 10px;
+}
+
+.Cnt{
+    font-size: 1000%;
+
+    /* background-color: green; */
+    display: flex;
+    justify-content: center;
+
+}

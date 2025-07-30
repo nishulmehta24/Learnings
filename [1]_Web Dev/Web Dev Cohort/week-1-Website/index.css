@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+}
+.toplink{
+    color: gray;
+
+    padding: 1%;
+}
+
+.a_white {
+    text-decoration:white;
+    color: white;
+}
+    
+
+.mybox {
+  background-color: rgb(13, 17, 23); /* replace 'x' with the color you want */
+  font-size: xx-small;
+  /* temprary */
+  
+  /* border-top: 5px solid red;
+  border-bottom: 5px solid red; */
+}
+
+.download_button{
+    background-color:dodgerblue; border-radius: 6px; size: 50px;
+}
+
+.body_style{
+    background-color: black;
+}

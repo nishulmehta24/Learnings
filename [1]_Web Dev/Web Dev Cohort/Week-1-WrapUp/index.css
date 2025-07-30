@@ -1,0 +1,16 @@
+.body{
+    background-color: rgb(33, 33, 33);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.links{
+    color: white;
+    text-decoration: none;
+}
+.buton {
+    text-shadow: 10px;
+    
+}
+.footer{
+    background-color: rgb(17, 17, 33);
+}

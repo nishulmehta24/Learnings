@@ -1,0 +1,66 @@
+*{
+    margin: 2px;
+    padding: 2px;
+}
+
+
+
+body {
+  font-family: "Comic Neue";
+  background: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  border: 2px solid black;
+  border-radius: 10px;
+  height:100vh;
+}
+
+.container {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  width: 300px;
+  border: 2px solid black;
+  margin:20px ;
+}
+
+input {
+  width: 70%;
+  padding: 8px;
+  margin-right: 5px;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-family: "Comic Neue" ;
+}
+
+button {
+  padding: 8px 12px;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-family: "Comic Neue" ;
+  background-color: #f4f4f4;
+}
+
+li {
+  
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+}
+
+.del{
+    background: red;
+}
+
+.tasksdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px dotted black;
+    border-radius: 10px;
+}
+#list{
+    padding: 10px;
+}
