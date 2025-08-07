@@ -4,8 +4,30 @@ const Port = 3000 ;
 
 const users =[];
 
+function auth(req , res , next){
+    const token = req.headers.token;
+    if(token){
+        jwt.verify(token, jwt_secret , (err , decoded )=>{
+            if(err){
+                res.status(400).send({
+                    message : "UnAutherised"
+                })
+            }
+            else{
+                req.user = decoded // object which is decode from token
+                next();
+            }
+        })
+    }
+    else{
+        res.status(400).send({
+            message : "Invalid Token",
+        })
+    }
+}
+
 const jwt = require("jsonwebtoken");
-const jwt_secret = "Nishul";
+const jwt_secret = "nishul";
 app.use(express.json());
 
 // creating new account 
@@ -52,19 +74,10 @@ app.post("/login" , function (req , res ){
     })
 
 });
-
-app.get("/me" , function (req ,res ){
-    const token = req.headers.token;
-    const userDetail = jwt.verify(token,jwt_secret);
-    const username = userDetail.username;
-
-    const user = users.find(u => u.username === username);
-    if(user){
-        res.send(user);
-        return ;
-    }
-
-    res.send("unotherized");
+app.use(auth);
+app.get("/me" , auth ,function (req ,res ){
+    res.send(req.user.username);
+    console.log(users);
     return 
 
 });
