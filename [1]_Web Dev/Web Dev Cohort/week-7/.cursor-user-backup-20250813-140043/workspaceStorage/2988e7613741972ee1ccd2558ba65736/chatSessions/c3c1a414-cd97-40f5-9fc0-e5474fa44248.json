@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "requesterUsername": "",
+  "responderUsername": "",
+  "initialLocation": "panel",
+  "requests": [
+    {
+      "requestId": "request_01334f93-915a-4fcd-8106-2c4eb2f4f027",
+      "message": {
+        "text": "npm info express ",
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 17
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 18
+            },
+            "text": "npm info express ",
+            "kind": "text"
+          }
+        ]
+      },
+      "variableData": {
+        "variables": [
+          {
+            "kind": "file",
+            "id": "vscode.implicit.viewport",
+            "name": "file:index.js",
+            "value": {
+              "uri": {
+                "$mid": 1,
+                "fsPath": "/Users/nishulmehta/Dev/Course/Web Dev/Web Dev Cohort/week-4/index.js",
+                "external": "file:///Users/nishulmehta/Dev/Course/Web%20Dev/Web%20Dev%20Cohort/week-4/index.js",
+                "path": "/Users/nishulmehta/Dev/Course/Web Dev/Web Dev Cohort/week-4/index.js",
+                "scheme": "file"
+              },
+              "range": {
+                "startLineNumber": 1,
+                "startColumn": 1,
+                "endLineNumber": 2,
+                "endColumn": 83
+              }
+            },
+            "modelDescription": "User's current visible code"
+          }
+        ]
+      },
+      "response": [
+        {
+          "kind": "progressMessage",
+          "content": {
+            "value": "Getting Copilot ready",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        }
+      ],
+      "responseId": "response_81f082b3-d70b-4545-a440-a05d7cc6ab02",
+      "isCanceled": false,
+      "agent": {
+        "id": "setup.chat",
+        "name": "GitHub Copilot",
+        "isDefault": true,
+        "isCore": true,
+        "modes": [
+          "ask"
+        ],
+        "slashCommands": [],
+        "disambiguation": [],
+        "locations": [
+          "panel"
+        ],
+        "metadata": {
+          "helpTextPrefix": {
+            "value": "You need to set up Copilot and be signed in to use Chat.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        },
+        "description": "Ask Copilot",
+        "extensionId": {
+          "value": "nullExtensionDescription",
+          "_lower": "nullextensiondescription"
+        },
+        "extensionDisplayName": "Null Extension Description",
+        "extensionPublisherId": "vscode"
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1752297399810
+    }
+  ],
+  "sessionId": "c3c1a414-cd97-40f5-9fc0-e5474fa44248",
+  "creationDate": 1752297396153,
+  "isImported": false,
+  "lastMessageDate": 1752297399810
+}

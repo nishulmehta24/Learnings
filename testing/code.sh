@@ -1,0 +1,1 @@
+ cd "/Users/nishulmehta/Learning_Stuff/testing/" && g++ Hello.c++ -o Hello && "/Users/nishulmehta/Learning_Stuff/testing/"Hello

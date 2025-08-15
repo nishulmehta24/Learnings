@@ -1,0 +1,32 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "files.autoSave": "afterDelay",
+    "fastolympiccoding.runSettings": {
+        ".cpp": {
+            "compileCommand": "g++ -std=gnu++20 -D_GLIBCXX_DEBUG -DLC_LOCAL ${path:${file}} -o ${path:${fileDirname}/${fileBasenameNoExtension}${exeExtname}}",
+            "runCommand": "${path:${fileDirname}/${fileBasenameNoExtension}${exeExtname}}"
+        },
+        ".py": {
+            "runCommand": "python ${path:${file}}"
+        },
+        ".java": {
+            "compileCommand": "javac ${path:${file}}",
+            "runCommand": "java -cp ${fileDirname} ${fileBasenameNoExtension}"
+        }
+    },
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "workbench.startupEditor": "none",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.secondarySideBar.showLabels": false,
+    "leetcode.workspaceFolder": "/Users/nishulmehta/Learning_Stuff/Leetcode",
+    "leetcode.defaultLanguage": "cpp",
+    "leetcode.hint.commandShortcut": false,
+    "leetcode.hint.configWebviewMarkdown": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "git.autofetch": true,
+    "editor.inlineSuggest.edits.showCollapsed": true,
+    "editor.inlineSuggest.edits.allowCodeShifting": "horizontal"
+}

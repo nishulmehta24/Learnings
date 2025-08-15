@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "requesterUsername": "",
+  "responderUsername": "",
+  "initialLocation": "panel",
+  "requests": [
+    {
+      "requestId": "request_5184c16f-47dc-4202-9878-fbfc1ce06f00",
+      "message": {
+        "text": "install live server extention",
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 29
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 30
+            },
+            "text": "install live server extention",
+            "kind": "text"
+          }
+        ]
+      },
+      "variableData": {
+        "variables": [
+          {
+            "kind": "file",
+            "id": "vscode.implicit.viewport",
+            "name": "file:index.html",
+            "value": {
+              "uri": {
+                "$mid": 1,
+                "fsPath": "/Users/nishulmehta/Dev/Course/Web Dev/week-1-Website/index.html",
+                "external": "file:///Users/nishulmehta/Dev/Course/Web%20Dev/week-1-Website/index.html",
+                "path": "/Users/nishulmehta/Dev/Course/Web Dev/week-1-Website/index.html",
+                "scheme": "file"
+              },
+              "range": {
+                "startLineNumber": 1,
+                "startColumn": 1,
+                "endLineNumber": 5,
+                "endColumn": 8
+              }
+            },
+            "modelDescription": "User's current visible code"
+          }
+        ]
+      },
+      "response": [
+        {
+          "kind": "progressMessage",
+          "content": {
+            "value": "Signing in to GitHub.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        },
+        {
+          "kind": "progressMessage",
+          "content": {
+            "value": "Getting Copilot ready.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        }
+      ],
+      "responseId": "response_6bdfe810-d733-4937-a1e3-83aec45dcf1e",
+      "isCanceled": false,
+      "agent": {
+        "id": "setup.chat",
+        "name": "GitHub Copilot",
+        "isDefault": true,
+        "isCore": true,
+        "modes": [
+          "ask"
+        ],
+        "slashCommands": [],
+        "disambiguation": [],
+        "locations": [
+          "panel"
+        ],
+        "metadata": {
+          "helpTextPrefix": {
+            "value": "You need to set up Copilot to use Chat.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        },
+        "description": "Ask Copilot",
+        "extensionId": {
+          "value": "nullExtensionDescription",
+          "_lower": "nullextensiondescription"
+        },
+        "extensionDisplayName": "Null Extension Description",
+        "extensionPublisherId": "vscode"
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1750140737213
+    }
+  ],
+  "sessionId": "4929e056-29d3-4cc4-97ed-49ee9a28edcb",
+  "creationDate": 1750140729374,
+  "isImported": false,
+  "lastMessageDate": 1750140737213
+}

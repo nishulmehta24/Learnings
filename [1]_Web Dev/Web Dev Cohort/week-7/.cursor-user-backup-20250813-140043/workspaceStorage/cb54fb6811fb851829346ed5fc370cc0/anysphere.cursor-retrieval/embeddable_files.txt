@@ -1,0 +1,1194 @@
+Contest/.vscode/c_cpp_properties.json
+README.md
+Contest/.vscode/settings.json
+Contest/cf 1037 div(3)/Only_One_Digit.cpp
+Contest/cf 1037 div(3)/No_Casino_in_the_Mountains
+Books/.DS_Store
+Contest/cf 1037 div(3)/I_Will_Definitely_Make_It.cpp
+Leetcode/.vscode/c_cpp_properties.json
+Contest/cf 1037 div(3)/tempCodeRunnerFile.cpp
+Leetcode/118.pascals-triangle.cpp
+Leetcode/1.two-sum.cpp
+Contest/cf 1037 div(3)/No_Casino_in_the_Mountains.cpp
+Leetcode/37.sudoku-solver.cpp
+Contest/cf 1037 div(3)/Big_Wins_easy_version.cpp
+Contest/cf 1037 div(3)/test.cpp
+Contest/cf 1037 div(3)/Only_One_Digit
+Leetcode/.cph/.1.two-sum.cpp_0325114fe11d48d617dd9425b252b479.prob
+Contest/cf 1037 div(3)/Big_Wins_easy_version
+[2]Cses/.vscode/c_cpp_properties.json
+[2]Cses/.DS_Store
+[2]Cses/Introductory Problems/Gray_Code.cpp
+Leetcode/.cph/.37.sudoku-solver.cpp_29c5824a5472fc96d76c7ba74b6e53c1.prob
+[2]Cses/Introductory Problems/Permutations
+[2]Cses/Introductory Problems/Digit_Queries.cpp
+[2]Cses/Introductory Problems/Number_Spiral.cpp
+[2]Cses/Introductory Problems/Tower_of_Hanoi.cpp
+[2]Cses/Introductory Problems/Two_Sets
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/src/App.jsx
+[2]Cses/Introductory Problems/.vscode/c_cpp_properties.json
+[2]Cses/Introductory Problems/Mex_Grid_Construction.cpp
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/src/main.jsx
+[2]Cses/Introductory Problems/Two_Knights.cpp
+[2]Cses/Introductory Problems/Trailing_Zeros.cpp
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/src/index.css
+[2]Cses/Introductory Problems/Missing_Number.cpp
+[2]Cses/Introductory Problems/Coin_Piles.cpp
+[2]Cses/Introductory Problems/Missing_Number
+[2]Cses/Introductory Problems/Increasing_Array.cpp
+[2]Cses/Introductory Problems/Grid_Path_Description.cpp
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/src/App.css
+[2]Cses/Introductory Problems/ReadMe.md
+[2]Cses/Introductory Problems/Knight_Moves_Grid.cpp
+[2]Cses/Introductory Problems/Creating_Strings.cpp
+[2]Cses/Introductory Problems/String_Reorder.cpp
+[2]Cses/Introductory Problems/Weird_Algorithm
+[2]Cses/Introductory Problems/Palindrome_Reorder.cpp
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/store/wishItemsState.js
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/store/cartItemsState.js
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/store/cartTotalSelector.js
+[2]Cses/Introductory Problems/Bit_Strings.cpp
+[2]Cses/Introductory Problems/Raab_Game_I.cpp
+[2]Cses/Introductory Problems/Two_Sets.cpp
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/App.jsx
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/main.jsx
+[2]Cses/Introductory Problems/Grid_Coloring_I.cpp
+[2]Cses/Introductory Problems/Test.cpp
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/components/wishItemsState.js
+[2]Cses/Introductory Problems/Weird_Algorithm.CPP
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/components/ProductModal.jsx
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/components/WishListStyles.module.js
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/components/AmazonStyleCart.jsx
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/components/WishList.jsx
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/components/AmazonStyleCart.module.js
+[2]Cses/Introductory Problems/Increasing_Array
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/components/Sidebar.jsx
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/components/index.js
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/components/Header.module.js
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/components/PurchaseModal.jsx
+[2]Cses/Introductory Problems/Test
+[2]Cses/Introductory Problems/Two_Knights
+[2]Cses/Introductory Problems/Repetitions.cpp
+[2]Cses/Introductory Problems/Apple_Division.cpp
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/components/ProductModal.module.js
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/components/Header.jsx
+[2]Cses/Introductory Problems/Repetitions
+[2]Cses/Introductory Problems/Chessboard_and_Queens.cpp
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/index.css
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/solutionsrc/App.css
+[2]Cses/Introductory Problems/Permutations.cpp
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/eslint.config.js
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/package.json
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/.gitignore
+[2]Cses/Introductory Problems/Bit_Strings
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/README.md
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/vite.config.js
+[1]_Web Dev/assignments_Cohort-3/week-11/amazonCart/index.html
+[2]Cses/Introductory Problems/Number_Spiral
+[1]_Web Dev/assignments_Cohort-3/week-18/src/db/user.ts
+[1]_Web Dev/assignments_Cohort-3/week-18/src/db/__tests__/db.test.ts
+[1]_Web Dev/assignments_Cohort-3/week-18/src/db/setup.ts
+[1]_Web Dev/assignments_Cohort-3/week-18/src/db/travelPlan.ts
+[1]_Web Dev/assignments_Cohort-3/week-18/tsconfig.json
+[1]_Web Dev/assignments_Cohort-3/week-18/package.json
+[1]_Web Dev/assignments_Cohort-3/week-18/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-18/README.md
+[1]_Web Dev/assignments_Cohort-3/week-18/solution/user.ts
+testing/code.sh
+testing/output.txt
+[1]_Web Dev/assignments_Cohort-3/week-18/solution/schema.prisma
+[1]_Web Dev/assignments_Cohort-3/week-18/solution/travelPlan.ts
+testing/nishulCompiledfile
+[1]_Web Dev/assignments_Cohort-3/week-18/prisma/schema.prisma
+testing/.vscode/c_cpp_properties.json
+testing/Hello
+testing/testing.cpp
+testing/Hello.c++
+testing/sudoku_solver.cpp
+[1]_Web Dev/assignments_Cohort-3/week-18/prisma/migrations/20241211065549_/migration.sql
+[1]_Web Dev/assignments_Cohort-3/week-18/prisma/migrations/migration_lock.toml
+[1]_Web Dev/assignments_Cohort-3/week-18/jest.config.js
+testing/NodejsServerSide/server.mjs
+testing/NodejsServerSide/package.json
+testing/NodejsServerSide/Readme.md
+testing/Testing Stuff Cohort/jest-course/package.json
+testing/Testing Stuff Cohort/Counstructor/a.txt
+testing/Testing Stuff Cohort/Counstructor/index.js
+[1]_Web Dev/assignments_Cohort-3/week-19/next.config.ts
+[1]_Web Dev/assignments_Cohort-3/week-19/.eslintrc.json
+[1]_Web Dev/assignments_Cohort-3/week-19/tsconfig.json
+[1]_Web Dev/assignments_Cohort-3/week-19/lib/prismadb.ts
+[1]_Web Dev/assignments_Cohort-3/week-19/package.json
+[1]_Web Dev/assignments_Cohort-3/week-19/.gitignore
+testing/Testing Stuff Cohort/Website/style.css
+testing/Testing Stuff Cohort/Website/script.js
+testing/Testing Stuff Cohort/Website/index.html
+testing/Testing Stuff Cohort/test/CallbackHell.js
+testing/Testing Stuff Cohort/test/a.txt
+testing/Testing Stuff Cohort/.DS_Store
+testing/testing
+testing/input.txt
+[1]_Web Dev/assignments_Cohort-3/week-19/components/Signup.tsx
+[1]_Web Dev/assignments_Cohort-3/week-19/tailwind.config.ts
+[1]_Web Dev/assignments_Cohort-3/week-19/README.md
+testing/Student-Performance-Prediction-main/src/utils.py
+testing/Student-Performance-Prediction-main/src/components/data_transformation.py
+testing/Student-Performance-Prediction-main/src/components/__init__.py
+testing/Student-Performance-Prediction-main/src/components/model_trainer.py
+[1]_Web Dev/assignments_Cohort-3/week-19/prisma/schema.prisma
+testing/Student-Performance-Prediction-main/src/components/data_ingestion.py
+[1]_Web Dev/assignments_Cohort-3/week-19/prisma/migrations/20241219141611_init_schema/migration.sql
+[1]_Web Dev/assignments_Cohort-3/week-19/prisma/migrations/20241219114844_init_schema/migration.sql
+testing/Student-Performance-Prediction-main/src/logger.py
+testing/Student-Performance-Prediction-main/src/__init.py
+[1]_Web Dev/assignments_Cohort-3/week-19/prisma/migrations/migration_lock.toml
+[1]_Web Dev/assignments_Cohort-3/week-19/postcss.config.mjs
+testing/Student-Performance-Prediction-main/src/exception.py
+[1]_Web Dev/assignments_Cohort-3/week-19/app/globals.css
+[1]_Web Dev/assignments_Cohort-3/week-19/app/page.tsx
+testing/Student-Performance-Prediction-main/src/pipeline/predict_pipeline.py
+testing/Student-Performance-Prediction-main/src/pipeline/train_pipeline.py
+[1]_Web Dev/assignments_Cohort-3/week-19/app/loading.tsx
+[1]_Web Dev/assignments_Cohort-3/week-19/app/api/user/route.ts
+[1]_Web Dev/assignments_Cohort-3/week-19/app/layout.tsx
+[1]_Web Dev/assignments_Cohort-3/week-19/app/signup/page.tsx
+testing/Student-Performance-Prediction-main/notebook/2. MODEL TRAINING.ipynb
+testing/Student-Performance-Prediction-main/templates/home.html
+testing/Student-Performance-Prediction-main/templates/index.html
+testing/Student-Performance-Prediction-main/.github/workflows/main_studentperformancepred.yml
+testing/Student-Performance-Prediction-main/.ebextensions/python.config
+testing/Student-Performance-Prediction-main/.gitignore
+testing/Student-Performance-Prediction-main/.dockerignore
+[1]_Web Dev/assignments_Cohort-3/week-19/app/favicon.ico
+testing/Student-Performance-Prediction-main/setup.py
+testing/Student-Performance-Prediction-main/application.py
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/src/App.jsx
+testing/Student-Performance-Prediction-main/README.md
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/src/main.jsx
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/src/components/RandomUser.jsx
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/src/index.css
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/src/App.css
+testing/Student-Performance-Prediction-main/Dockerfile
+testing/Student-Performance-Prediction-main/requirements.txt
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/eslint.config.js
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/package.json
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/.gitignore
+testing/test/cd..
+testing/test/testing
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/README.md
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/vite.config.js
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/solution/RandomUser.css
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/solution/RandomUser.jsx
+testing/test/a
+testing/test/.DS_Store
+[1]_Web Dev/assignments_Cohort-3/week-10/userApi/index.html
+testing/test/a.cpp
+testing/.DS_Store
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/5-vscode-bottombar/README.md
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/src/App.jsx
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/src/main.jsx
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/src/components/Home.jsx
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/5-vscode-bottombar/index.html
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/1-vertical-align/README.md
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/src/components/AppBar.jsx
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/1-vertical-align/index.html
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/src/components/Login.jsx
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/src/components/AuthSystem.jsx
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/src/index.css
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/src/App.css
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/src/Auth.css
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/0-horizontal-align/README.md
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/eslint.config.js
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/0-horizontal-align/index.html
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/package.json
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/README.md
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/2-flex-layout/README.md
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/vite.config.js
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/solution/Home.jsx
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/2-flex-layout/index.html
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/solution/AppBar.jsx
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/6-vs-code-landing-page/README.md
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/solution/Login.jsx
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/solution/AuthSystem.jsx
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/6-vs-code-landing-page/index.css
+[1]_Web Dev/assignments_Cohort-3/week-10/authSystem/index.html
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/6-vs-code-landing-page/index.html
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/3-grid-layout/README.md
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/3-grid-layout/index.html
+[1]_Web Dev/assignments_Cohort-3/week-17/src/config.ts
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/4-more-complicated-grid/README.md
+[1]_Web Dev/assignments_Cohort-3/week-17/src/index.ts
+[1]_Web Dev/assignments_Cohort-3/week-1/problems/4-more-complicated-grid/index.html
+[1]_Web Dev/assignments_Cohort-3/week-17/src/db/user.ts
+[1]_Web Dev/assignments_Cohort-3/week-17/src/db/travel.ts
+[1]_Web Dev/assignments_Cohort-3/week-1/solutions/vs-code-landing-page/index.css
+[1]_Web Dev/assignments_Cohort-3/week-17/src/db/__tests__/db.test.ts
+[1]_Web Dev/assignments_Cohort-3/week-17/src/db/setup.ts
+[1]_Web Dev/assignments_Cohort-3/week-1/solutions/vs-code-landing-page/index.html
+[1]_Web Dev/assignments_Cohort-3/week-17/tsconfig.json
+[1]_Web Dev/assignments_Cohort-3/week-6/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-17/package.json
+[1]_Web Dev/assignments_Cohort-3/week-17/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-17/README.md
+[1]_Web Dev/assignments_Cohort-3/week-17/solution/user.ts
+[1]_Web Dev/assignments_Cohort-3/week-17/solution/travel.ts
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/README.md
+[1]_Web Dev/assignments_Cohort-3/week-17/solution/setup.ts
+[1]_Web Dev/assignments_Cohort-3/week-17/jest.config.js
+[1]_Web Dev/assignments_Cohort-3/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-5/README.md
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/solution/backend/routes/todo.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/solution/backend/package.json
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/solution/backend/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/solution/backend/index.js
+[1]_Web Dev/assignments_Cohort-3/week-5/solution/backend/mytodo.postman_collection.json
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/solution/frontend/style.css
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/solution/frontend/script.js
+[1]_Web Dev/assignments_Cohort-3/week-5/solution/backend/routes/todo.js
+[1]_Web Dev/assignments_Cohort-3/week-5/solution/backend/routes/user.js
+[1]_Web Dev/assignments_Cohort-3/week-5/solution/backend/db/index.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/solution/frontend/index.html
+[1]_Web Dev/assignments_Cohort-3/week-5/solution/backend/package.json
+[1]_Web Dev/assignments_Cohort-3/week-5/solution/backend/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-5/solution/backend/index.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/backend/routes/todo.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/backend/package.json
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/backend/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-5/solution/backend/middleware/user.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/backend/index.js
+[1]_Web Dev/assignments_Cohort-3/week-5/solution/frontend/style.css
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/frontend/style.css
+[1]_Web Dev/assignments_Cohort-3/week-5/solution/frontend/script.js
+[1]_Web Dev/assignments_Cohort-3/week-5/solution/frontend/index.html
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/frontend/package.json
+[1]_Web Dev/assignments_Cohort-3/week-5/backend/routes/todo.js
+[1]_Web Dev/assignments_Cohort-3/week-5/backend/routes/user.js
+[1]_Web Dev/assignments_Cohort-3/week-5/backend/db/index.js
+[1]_Web Dev/assignments_Cohort-3/week-5/backend/package.json
+[1]_Web Dev/assignments_Cohort-3/week-5/backend/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/frontend/script.js
+[1]_Web Dev/assignments_Cohort-3/week-5/backend/index.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.1-todo/frontend/index.html
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/README.md
+[1]_Web Dev/assignments_Cohort-3/week-5/backend/middleware/user.js
+[1]_Web Dev/assignments_Cohort-3/week-5/frontend/style.css
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/solution/backend/routes/bookmarks.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/solution/backend/package.json
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/solution/backend/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-5/frontend/script.js
+[1]_Web Dev/assignments_Cohort-3/week-5/frontend/index.html
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/solution/backend/index.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/package.json
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/solution/backend/Bookmark.postman_collection.json
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/README.md
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/hard (promises)/4-promise-chain.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/hard (promises)/1-promisify-setTimeout.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/solution/Bookmark.postman_collection.json
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/hard (promises)/3-promise-all.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/hard (promises)/2-sleep-completely.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/solution/frontend/script.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/solution/frontend/styles.css
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/medium/2-clock.md
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/solution/frontend/index.html
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/medium/1-file-cleaner.md
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/solutions/medium/example.txt
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/solutions/medium/1-file-cleaner.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/backend/routes/bookmarks.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/solutions/medium/2-clock.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/solutions/hard/4-promise-chain.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/solutions/hard/1-promisify-setTimeout.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/solutions/hard/3-promise-all.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/backend/package.json
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/backend/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/backend/index.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/solutions/hard/2-sleep-completely.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/frontend/script.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/solutions/easy/3-read-from-file.js
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/frontend/styles.css
+[1]_Web Dev/assignments_Cohort-3/week-6/6.2-bookmark-manager/frontend/index.html
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/solutions/easy/2-counter.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/solutions/easy/example.txt
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/solutions/easy/4-write-to-file.js
+[1]_Web Dev/assignments_Cohort-3/week-7/client/src/pages/Home.jsx
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/solutions/easy/1-counter.js
+[1]_Web Dev/assignments_Cohort-3/week-7/client/src/App.jsx
+[1]_Web Dev/assignments_Cohort-3/week-7/client/src/main.jsx
+[1]_Web Dev/assignments_Cohort-3/week-7/client/src/components/Register.jsx
+[1]_Web Dev/assignments_Cohort-3/week-7/client/src/components/Courses.jsx
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/tests/3-promise-all.test.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/tests/2-sleep-completely.test.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/tests/1-promisify-setTimeout.test.js
+[1]_Web Dev/assignments_Cohort-3/week-7/client/src/components/Login.jsx
+[1]_Web Dev/assignments_Cohort-3/week-7/client/src/styles.css
+[1]_Web Dev/assignments_Cohort-3/week-7/client/eslint.config.js
+[1]_Web Dev/assignments_Cohort-3/week-7/client/package.json
+[1]_Web Dev/assignments_Cohort-3/week-7/client/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-7/client/vite.config.js
+[1]_Web Dev/assignments_Cohort-3/week-7/client/index.html
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/tests/4-promise-chain.test.js
+[1]_Web Dev/assignments_Cohort-3/week-7/README.md
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/easy/1-counter.md
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/easy/4-write-to-file.md
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/easy/2-counter.md
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-async-js/easy/3-read-from-file.md
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/package.json
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/README.md
+[1]_Web Dev/assignments_Cohort-3/week-7/server/package.json
+[1]_Web Dev/assignments_Cohort-3/week-7/server/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/medium/countVowels.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/medium/palindrome.js
+[1]_Web Dev/assignments_Cohort-3/week-7/server/server.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/medium/times.js
+[1]_Web Dev/assignments_Cohort-3/week-7/client-easy/style.css
+[1]_Web Dev/assignments_Cohort-3/week-7/client-easy/script.js
+[1]_Web Dev/assignments_Cohort-3/week-7/client-easy/index.html
+[1]_Web Dev/assignments_Cohort-3/README.md
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/solutions/medium/countVowels.js
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/src/App.jsx
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/solutions/medium/palindrome.js
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/src/myApp.css
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/src/main.jsx
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/solutions/medium/times.js
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/src/components/AdopterData.jsx
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/src/components/Header.jsx
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/src/components/PetAdoptionForm.jsx
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/src/index.css
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/solutions/hard/calculator.js
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/src/utils/validation.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/solutions/hard/todo-list.js
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/src/App.css
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/solutions/easy/expenditure-analysis.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/solutions/easy/findLargestElement.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/solutions/easy/anagram.js
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/eslint.config.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/tests/expenditure-analysis.test.js
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/package.json
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/tests/anagram.test.js
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/README.md
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/vite.config.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/tests/findLargestElement.test.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/tests/palindrome.test.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/tests/calculator.test.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/tests/countVowels.test.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/tests/todo-list.test.js
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/solution/AdopterData.jsx
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/hard/calculator.js
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/solution/Header.jsx
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/hard/todo-list.js
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/solution/PetAdoptionForm.jsx
+[1]_Web Dev/assignments_Cohort-3/week-9/petAdoption/index.html
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/easy/expenditure-analysis.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/easy/findLargestElement.js
+[1]_Web Dev/assignments_Cohort-3/week-2/week-2-js/easy/anagram.js
+[1]_Web Dev/assignments_Cohort-3/week-3/medium/Form-Builder/README.md
+[1]_Web Dev/assignments_Cohort-3/week-3/hard/taskify/README.md
+[1]_Web Dev/assignments_Cohort-3/week-3/easy/bg-color-changer/README.md
+[1]_Web Dev/assignments_Cohort-3/week-3/easy/The-Pokémon/README.md
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/src/App.jsx
+[1]_Web Dev/assignments_Cohort-3/week-3/easy/quiz-app/data.js
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/src/main.jsx
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/src/components/Timer.module.css
+[1]_Web Dev/assignments_Cohort-3/week-3/easy/quiz-app/README.md
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/src/components/Timer.jsx
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/src/index.css
+[1]_Web Dev/assignments_Cohort-3/week-4/README.md
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/src/utils/auxiliaryFunctions.js
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/src/App.css
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/eslint.config.js
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/package.json
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/README.md
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/vite.config.js
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/jest.config.ts
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/01-requestcount.js
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/solution/Timer.jsx
+[1]_Web Dev/assignments_Cohort-3/week-9/timerApp/index.html
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/tsconfig.json
+[1]_Web Dev/assignments_Cohort-3/week-14/README.md
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/package.json
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/.gitignore
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/02-authmiddleware.js
+[1]_Web Dev/assignments_Cohort-3/week-13/README.md
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/02-logIncomingRequests.js
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/solution/01-requestcount.js
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/solution/02-authmiddleware.js
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/solution/02-logIncomingRequest.js
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/solution/01-ratelimitter.js
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/tests/01-requestcount.spec.js
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/tests/02-logIncomingRequests.spec.js
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/tests/02-authmiddleware.spec.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK18/README.md
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/tests/01-ratelimitter.spec.js
+[1]_Web Dev/assignments_Cohort-3/week-4/middlewares/01-ratelimitter.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/docs/tsconfig.json
+[1]_Web Dev/assignments_Cohort-3/week-4/hard/routes/todo.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/docs/.eslintrc.js
+[1]_Web Dev/assignments_Cohort-3/week-4/hard/routes/user.js
+[1]_Web Dev/assignments_Cohort-3/week-4/hard/package.json
+[1]_Web Dev/assignments_Cohort-3/week-4/hard/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/docs/package.json
+[1]_Web Dev/assignments_Cohort-3/week-4/hard/README.md
+[1]_Web Dev/assignments_Cohort-3/week-4/hard/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/docs/README.md
+[1]_Web Dev/assignments_Cohort-3/week-4/hard/database/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/docs/next-env.d.ts
+[1]_Web Dev/assignments_Cohort-3/week-4/hard/middleware/user.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/docs/next.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/docs/app/globals.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/docs/app/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/docs/app/layout.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK04/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/docs/app/page.module.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK04/assignments/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK04/assignments/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/docs/app/favicon.ico
+[1]_Web Dev/Cohort-2-Assigment/WEEK04/assignments/react-basics/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/backend/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/backend/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/backend/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/src/vite-env.d.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/jest.config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/src/main.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/coverage/coverage-final.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/src/App.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/vite.config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/coverage/lcov-report/base.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/coverage/lcov-report/sorter.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/coverage/lcov-report/prettify.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/.eslintrc.cjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/coverage/lcov-report/prettify.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app2/tsconfig.node.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/coverage/lcov-report/01-requestcount.js.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/web/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/web/.eslintrc.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/coverage/lcov-report/block-navigation.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/web/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/coverage/lcov-report/02-ratelimitter.js.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/web/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/web/next-env.d.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/web/next.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/coverage/lcov-report/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/coverage/lcov-report/03-errorcount.js.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/coverage/lcov.info
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/coverage/clover.xml
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/01-requestcount.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/web/app/globals.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/web/app/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/web/app/layout.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/web/app/page.module.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/02-ratelimitter.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/03-errorcount.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/web/app/favicon.ico
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/tests/01-requestcount.spec.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/tests/02-ratelimitter.spec.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/01-middlewares/tests/03-errorcount.spec.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/src/vite-env.d.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/04-mongo-with-jwt-auth/routes/admin.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/src/main.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/04-mongo-with-jwt-auth/routes/user.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/src/App.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/vite.config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/04-mongo-with-jwt-auth/db/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/04-mongo-with-jwt-auth/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/04-mongo-with-jwt-auth/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/04-mongo-with-jwt-auth/rough.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/04-mongo-with-jwt-auth/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/.eslintrc.cjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/04-mongo-with-jwt-auth/solution/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/apps/react-app/tsconfig.node.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/04-mongo-with-jwt-auth/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/.eslintrc.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/04-mongo-with-jwt-auth/middleware/admin.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/04-mongo-with-jwt-auth/middleware/error-handler.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/04-mongo-with-jwt-auth/middleware/user.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/typescript-config/base.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/typescript-config/react-library.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/typescript-config/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/typescript-config/nextjs.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/02-jwt/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/eslint-config/react-internal.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/02-jwt/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/02-jwt/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/02-jwt/rough.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/eslint-config/next.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/02-jwt/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/02-jwt/tests/index.spec.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/eslint-config/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/eslint-config/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/eslint-config/library.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/03-mongo/routes/admin.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/03-mongo/routes/user.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/common/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/common/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/common/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/03-mongo/db/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/03-mongo/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/03-mongo/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/ui/src/button.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/03-mongo/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/ui/src/code.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/ui/src/card.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/03-mongo/solution/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/ui/src/Inputbox.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/03-mongo/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/03-mongo/middleware/admin.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/03-mongo/middleware/user.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/solutions/01-requestcount.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/ui/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/ui/.eslintrc.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/ui/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/ui/tsconfig.lint.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/solutions/02.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/solutions/02-ratelimitter.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/solutions/03-errorcount.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK03/assignments/test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/02-nodejs/todos.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/02-nodejs/files/a.txt
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/02-nodejs/todoServer.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/02-nodejs/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/02-nodejs/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/02-nodejs/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/ui/turbo/generators/config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/02-nodejs/solutions/todoServer.solution.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/02-nodejs/solutions/fileServer.solution.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/packages/ui/turbo/generators/templates/component.hbs
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/02-nodejs/solutions/todoServer.solution.file.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/02-nodejs/tests/todoServer.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/02-nodejs/tests/fileServer.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/.npmrc
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/02-nodejs/fileServer.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/turborepo/turbo.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/hard (promises)/4-promise-chain.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/hard (promises)/1-promisify-setTimeout.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/hard (promises)/3-promise-all.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/hard (promises)/2-sleep-completely.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/medium/2-clock.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/medium/1-file-cleaner.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/medium/1-file-cleaner.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/medium/2-clock.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/medium/file.txt
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/postcss.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/tests/3-promise-all.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/components/Appbar.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/tailwind.config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/next.config.mjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/tests/2-sleep-completely.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/tests/1-promisify-setTimeout.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/tests/4-promise-chain.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/easy/3-read-from-file.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/easy/2-counter.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/easy/1-counter.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/easy/4-write-to-file.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/app/globals.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/easy/4-write-to-file.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/app/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/easy/1-counter.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/easy/2-counter.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/app/api/user/route.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/easy/3-read-from-file.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK02/assignments/01-async-js/easy/file.txt
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/app/api/auth/[...nextauth]/route.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK05/5.2/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK05/5.2/Ass2.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK05/5.2/Ass1.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK05/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/app/lib/providers.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/app/lib/auth.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK05/5.1/Https_Server_inclassQuestion/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK05/5.1/Https_Server_inclassQuestion/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK05/5.1/Https_Server_inclassQuestion/tempCodeRunnerFile.js
+[1]_Web Dev/Cohort-2-Assigment/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/app/layout.tsx
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/app/signin/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/pnpm-workspace.yaml
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/docs/eslint.config.js
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/docs/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/next-auth/app/favicon.ico
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/docs/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/docs/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK16/README.md
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/docs/README.md
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/docs/next.config.js
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/docs/app/globals.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/docs/app/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough/wrangler.toml
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/docs/app/layout.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/docs/app/page.module.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough/.prettierrc
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/docs/app/favicon.ico
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough/.editorconfig
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/web/eslint.config.js
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/web/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/web/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/web/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough2/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/web/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough2/wrangler.toml
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/web/next.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough2/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough2/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough2/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/web/app/globals.css
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/web/app/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/class1-rough2/README.md
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/web/app/layout.tsx
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/web/app/page.module.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK11/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/class1-rough/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/class1-rough/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/class1-rough/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/class1-rough/README.md
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/apps/web/app/favicon.ico
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/.vscode/settings.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/class2-rough/src/intex.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/typescript-config/base.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/typescript-config/react-library.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/typescript-config/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/typescript-config/nextjs.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/class2-rough/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/class2-rough/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/eslint-config/base.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/class2-rough/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/eslint-config/react-internal.js
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/eslint-config/next.js
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/eslint-config/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/class2-rough/prisma/schema.prisma
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/eslint-config/README.md
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/ui/src/button.tsx
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/ui/src/code.tsx
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/ui/src/card.tsx
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/ui/eslint.config.mjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/class2-rough/prisma/migrations/20240212094334_initialize/migration.sql
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/ui/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/ui/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/class2-rough/prisma/migrations/migration_lock.toml
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/ui/turbo/generators/config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/class2-rough/prisma/migrations/20240212073219_initialize/migration.sql
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/packages/ui/turbo/generators/templates/component.hbs
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/README.md
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/2-prisma-simple/src/db/user.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/README.md
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/.npmrc
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK21/chat-app/turbo.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/2-prisma-simple/src/db/__tests__/db.test.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/2-prisma-simple/src/db/setup.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/2-prisma-simple/src/db/todo.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/pnpm-workspace.yaml
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/2-prisma-simple/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/ws-backend/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/2-prisma-simple/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/2-prisma-simple/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/ws-backend/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/2-prisma-simple/README.md
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/ws-backend/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/http-backend/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/http-backend/src/middleware.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/http-backend/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/http-backend/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/2-prisma-simple/prisma/schema.prisma
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/2-prisma-simple/prisma/migrations/20240205225711_i_nit/migration.sql
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/2-prisma-simple/prisma/migrations/migration_lock.toml
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/2-prisma-simple/jest.config.js
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/eslint.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/1-postgres-simple/src/config.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/1-postgres-simple/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/hooks/useSocket.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/1-postgres-simple/src/db/user.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/1-postgres-simple/src/db/__tests__/db.test.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/1-postgres-simple/src/db/setup.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/1-postgres-simple/src/db/todo.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/components/ChatRoomClient.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/1-postgres-simple/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/components/ChatRoom.tsx
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/README.md
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/next.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/1-postgres-simple/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/app/globals.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/1-postgres-simple/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/app/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/1-postgres-simple/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK10/assignments/1-postgres-simple/jest.config.js
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/app/config.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/app/layout.tsx
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/app/page.module.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK17/README.md
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/app/room/[slug]/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/attacker/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/attacker/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/attacker/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/apps/web/app/favicon.ico
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/attacker/tsconfig.tsbuildinfo
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/.vscode/settings.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/pubsub/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/typescript-config/base.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/pubsub/src/PubSubManager.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/typescript-config/react-library.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/pubsub/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/typescript-config/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/pubsub/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/typescript-config/nextjs.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/pubsub/tsconfig.tsbuildinfo
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/server/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/server/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/server/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/server/tsconfig.tsbuildinfo
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/db/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/singleton-state/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/db/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/singleton-state/src/logger.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/db/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/db/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/singleton-state/src/GameManager.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/singleton-state/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/singleton-state/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/db/prisma/schema.prisma
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/singleton-state/tsconfig.tsbuildinfo
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/src/vite-env.d.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/src/main.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/src/App.tsx
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/db/prisma/migrations/20250112155013_email_unique/migration.sql
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/vite.config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/eslint.config.js
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/db/prisma/migrations/20250112153819_made_photo_optional/migration.sql
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/db/prisma/migrations/20250112150913_init_schema/migration.sql
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/db/prisma/migrations/migration_lock.toml
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/eslint-config/base.js
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/eslint-config/react-internal.js
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/eslint-config/next.js
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/eslint-config/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/eslint-config/README.md
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/common/src/types.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/common/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/common/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/backend-common/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/backend-common/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/backend-common/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/ui/src/button.tsx
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/ui/src/code.tsx
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/ui/src/card.tsx
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/ui/eslint.config.js
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/ui/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/ui/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/tsconfig.app.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/index.html
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/ui/turbo/generators/config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK21/react-captcha/tsconfig.node.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/packages/ui/turbo/generators/templates/component.hbs
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/package.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/README.md
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/.npmrc
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/draw-app/turbo.json
+[1]_Web Dev/Cohort-2-Assigment/COHORT03/WEEK22/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nextjs/next.config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nextjs/.eslintrc.json
+[1]_Web Dev/Cohort-2-Assigment/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nextjs/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nextjs/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nextjs/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/monorepos/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nextjs/tailwind.config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nextjs/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nextjs/postcss.config.mjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nextjs/app/globals.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/src/vite-env.d.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nextjs/app/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nextjs/app/layout.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nextjs/app/favicon.ico
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/worker-redis/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/src/main.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/src/App.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/vite.config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/worker-redis/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/worker-redis/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/worker-redis/tsconfig.tsbuildinfo
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/.eslintrc.cjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/aws-react-rough/tsconfig.node.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/next.config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/typescript-apis/src/Readonly.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/typescript-apis/src/Map.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/.eslintrc.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/typescript-apis/src/Pick.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/typescript-apis/src/ZodInference.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/typescript-apis/src/Exclude.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/typescript-apis/src/Record.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/tailwind.config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/postcss.config.mjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/app/globals.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/typescript-apis/src/Partial.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/app/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/typescript-apis/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK12/typescript-apis/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/app/api/route.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/app/layout.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-1-main/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-1-main/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-1-main/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-1-main/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-1-main/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-1-main/prisma/schema.prisma
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-1-main/prisma/migrations/20240309103132_init/migration.sql
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-1-main/prisma/migrations/migration_lock.toml
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-1-main/Dockerfile
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/app/favicon.ico
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/middlewares-in-next/middleware.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/express-server-redis/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/express-server-redis/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/express-server-redis/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-2.2-main/src/db.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-2.2-main/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-2.2-main/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-2.2-main/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-2.2-main/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-2.2-main/.dockerignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-2.2-main/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/express-server-redis/tsconfig.tsbuildinfo
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-2.2-main/Dockerfile
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK15/week-15-live-2.2-main/docker-compose.yaml
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nodejs/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nodejs/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/.eslintrc.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/postcss.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nodejs/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK19/ws-nodejs/tsconfig.tsbuildinfo
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/tailwind.config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/next.config.mjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/app/not-found.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/app/globals.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/app/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/src/atoms2.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/app/layout.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/app/signin/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/src/App2.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/app/signin/layout.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/src/App.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/app/signup/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/src/main.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/src/atoms.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/vite.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/.eslintrc.cjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-easy-bits/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-app/app/favicon.ico
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/.eslintrc.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/db.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/postcss.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/atom-family/src/todos.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/atom-family/src/App.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/actions/user.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/components/Signup.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/atom-family/src/main.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/tailwind.config.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/atom-family/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/atom-family/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/atom-family/src/atoms.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/prisma/schema.prisma
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/atom-family/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/atom-family/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/prisma/migrations/20240311115536_init/migration.sql
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/prisma/migrations/migration_lock.toml
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/atom-family/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/atom-family/vite.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/prisma/migrations/20240311120844_unique/migration.sql
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/atom-family/.eslintrc.cjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/next.config.mjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/atom-family/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/app/globals.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/app/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/app/api/user/route.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/app/layout.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/app/user/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/app/user/loading.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/app/signup/page.tsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK14/next-server/app/favicon.ico
+[1]_Web Dev/Cohort-2-Assigment/WEEK13/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK13/medium/src/routes/user.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK13/medium/src/routes/blog.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/src/atoms2.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK13/medium/src/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/src/App2.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/src/App.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK13/medium/wrangler.toml
+[1]_Web Dev/Cohort-2-Assigment/WEEK13/medium/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/src/main.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK13/medium/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK13/medium/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK13/medium/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK13/medium/prisma/schema.prisma
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/src/atoms.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK13/medium/prisma/migrations/20240307175834_init_schema/migration.sql
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK13/medium/prisma/migrations/migration_lock.toml
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/vite.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/.eslintrc.cjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK22/cluster-nodejs/index.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/7.4-async-queries/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK22/cluster-nodejs/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK22/cluster-nodejs/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK22/cluster-nodejs/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK22/cluster-nodejs/tsconfig.tsbuildinfo
+[1]_Web Dev/Cohort-2-Assigment/WEEK22/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK09/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK09/rough/src/a.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/selector-family/src/App.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/selector-family/src/main.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK09/rough/tsconfig.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/selector-family/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK09/rough/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/selector-family/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/selector-family/src/atoms.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/selector-family/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/selector-family/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/selector-family/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/selector-family/vite.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/selector-family/.eslintrc.cjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/selector-family/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/backend/routes/account.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/backend/routes/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/backend/routes/user.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/backend/middleware.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/backend/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/backend/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/backend/config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/backend/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/backend/db.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/loadables/src/App.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/loadables/src/main.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/loadables/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/loadables/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/loadables/src/atoms.ts
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/Dockerfile
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/loadables/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/loadables/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/loadables/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/loadables/vite.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/loadables/.eslintrc.cjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK07/7.4-master/loadables/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/frontend/src/App.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/frontend/src/main.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/frontend/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/frontend/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/frontend/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/frontend/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/frontend/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/frontend/vite.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/frontend/.eslintrc.cjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK08/assignments/paytm-main/frontend/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/src/App.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/RC02/level-1/01-String.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/src/main.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/RC02/level-1/02-Number.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/src/components/Assignment3.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/src/components/Assignment2.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/src/components/Assignment1.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/RC02/level-1/03-Array.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/RC02/level-2/03-JSON.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/vite.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/RC02/level-2/02-Date.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/.eslintrc.cjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/1-use-memo/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/RC02/level-2/01-Class.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/3-use-ref/src/App.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/RC02/level-2/04-Math.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/3-use-ref/src/main.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/3-use-ref/src/components/Assignment2.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/3-use-ref/src/components/Assignment1.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/3-use-ref/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/3-use-ref/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/RC02/level-2/O5-Object.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/3-use-ref/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/3-use-ref/.gitignore
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/3-use-ref/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/3-use-ref/vite.config.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/3-use-ref/.eslintrc.cjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/3-use-ref/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/solutions/2/components/Assignment2.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/solutions/2/components/Assignment1.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/medium/countVowels.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/medium/palindrome.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/solutions/3/components/Assignment2.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/medium/times.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/solutions/3/components/Assignment1.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/tests/expenditure-analysis.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/solutions/1/components/Assignment3.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/tests/anagram.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/tests/findLargestElement.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/solutions/1/components/Assignment2.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/solutions/1/components/Assignment1.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/tests/palindrome.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/tests/calculator.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/tests/countVowels.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/tests/todo-list.test.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/hard/calculator.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/hard/todo-list.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/2-use-callback/src/App.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/easy/expenditure-analysis.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/easy/findLargestElement.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK01/assignments/RC02/easy/anagram.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/2-use-callback/src/main.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/2-use-callback/src/components/Assignment2.jsx
+[1]_Web Dev/Web Dev Cohort/week-6/6.2/myCode/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/2-use-callback/src/components/Assignment1.jsx
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/2-use-callback/src/index.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/2-use-callback/src/App.css
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/2-use-callback/package.json
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/2-use-callback/.gitignore
+[1]_Web Dev/Web Dev Cohort/week-6/6.2/myCode/index.js
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/2-use-callback/README.md
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/2-use-callback/vite.config.js
+[1]_Web Dev/Web Dev Cohort/week-6/6.2/cource_app/pubic/index.html
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/2-use-callback/.eslintrc.cjs
+[1]_Web Dev/Cohort-2-Assigment/WEEK06/assignments/2-use-callback/index.html
+[1]_Web Dev/Web Dev Cohort/week-6/6.2/cource_app/package.json
+[1]_Web Dev/Web Dev Cohort/week-6/6.2/cource_app/backend.js
+[1]_Web Dev/Web Dev Cohort/.DS_Store
+[1]_Web Dev/Web Dev Cohort/week-5/Offline/Readme.md
+[1]_Web Dev/Web Dev Cohort/week-5/Offline/fetchVSaxios.js
+[1]_Web Dev/Web Dev Cohort/week-6/6.2/cource_app/tempCodeRunnerFile.js
+[1]_Web Dev/Web Dev Cohort/week-5/5.1_Header_params_Express/package.json
+[1]_Web Dev/Web Dev Cohort/week-5/5.1_Header_params_Express/index.js
+[1]_Web Dev/Web Dev Cohort/week-6/Authantication_app/jwt.js
+[1]_Web Dev/Web Dev Cohort/week-2/a.txt
+[1]_Web Dev/Web Dev Cohort/week-6/Authantication_app/package.json
+[1]_Web Dev/Web Dev Cohort/week-2/index.js
+[1]_Web Dev/Web Dev Cohort/week-6/Authantication_app/token.js
+[1]_Web Dev/Web Dev Cohort/week-6/Authantication_app/tempCodeRunnerFile.js
+[1]_Web Dev/Web Dev Cohort/week-3/DOM (Basic)/[2] TODO APP/style.css
+[1]_Web Dev/Web Dev Cohort/README.md
+[1]_Web Dev/Web Dev Cohort/week-3/DOM (Basic)/[2] TODO APP/script.js
+[1]_Web Dev/Web Dev Cohort/week-3/DOM (Basic)/[2] TODO APP/index.html
+[1]_Web Dev/Web Dev Cohort/week-3/DOM (Basic)/.DS_Store
+[1]_Web Dev/Web Dev Cohort/week-3/DOM (Basic)/[1] TODO APP/style.css
+[1]_Web Dev/Web Dev Cohort/week-3/DOM (Basic)/[1] TODO APP/script.js
+[1]_Web Dev/Web Dev Cohort/week-3/DOM (Basic)/[1] TODO APP/README.md
+[1]_Web Dev/Web Dev Cohort/week-3/DOM (Basic)/[1] TODO APP/.DS_Store
+[1]_Web Dev/Web Dev Cohort/week-3/DOM (Basic)/[1] TODO APP/index.html
+[1]_Web Dev/Web Dev Cohort/Week-1-WrapUp/index.css
+[1]_Web Dev/Web Dev Cohort/week-3/.vscode/c_cpp_properties.json
+[1]_Web Dev/Web Dev Cohort/Week-1-WrapUp/index.html
+[1]_Web Dev/Web Dev Cohort/week-3/.DS_Store
+[1]_Web Dev/.swp
+[1]_Web Dev/.DS_Store
+[1]_Web Dev/Web Dev Cohort/week-4/package.json
+.DS_Store
+[1]_Web Dev/Web Dev Cohort/week-4/week-4-todo/app.js
+[1]_Web Dev/Web Dev Cohort/week-4/week-4-todo/style.css
+[1]_Web Dev/Web Dev Cohort/week-4/week-4-todo/test.js
+[1]_Web Dev/Web Dev Cohort/week-4/express-class/package.json
+[1]_Web Dev/Web Dev Cohort/week-4/week-4-todo/index.html
+[1]_Web Dev/Web Dev Cohort/week-4/express-class/tempCodeRunnerFile.js
+[1]_Web Dev/Web Dev Cohort/week-4/Test/package.json
+[1]_Web Dev/Web Dev Cohort/week-4/FileSystemServer/.vscode/c_cpp_properties.json
+[1]_Web Dev/Web Dev Cohort/week-4/Test/a.txt
+[1]_Web Dev/Web Dev Cohort/week-4/FileSystemServer/Files/a.txt
+[1]_Web Dev/Web Dev Cohort/week-4/FileSystemServer/Files/b.txt
+[1]_Web Dev/Web Dev Cohort/week-4/FileSystemServer/package.json
+[1]_Web Dev/Web Dev Cohort/week-4/Test/index.js
+[1]_Web Dev/Web Dev Cohort/week-4/FileSystemServer/index.js
+[1]_Web Dev/Web Dev Cohort/week-4/.DS_Store
+[1]_Web Dev/Web Dev Cohort/week-4/Test/tempCodeRunnerFile.js
+[1]_Web Dev/Web Dev Cohort/week-4/Test/test.js
+[1]_Web Dev/Web Dev Cohort/week-4/Test/show.txt
+[1]_Web Dev/Web Dev Cohort/week-1-Website/index.css
+[1]_Web Dev/Web Dev Cohort/week-4/MiddleWare/package.json
+[1]_Web Dev/Web Dev Cohort/week-1-Website/.DS_Store
+[1]_Web Dev/Web Dev Cohort/week-4/MiddleWare/index.js
+[1]_Web Dev/Web Dev Cohort/week-1-Website/resourse/.DS_Store
+[1]_Web Dev/Web Dev Cohort/week-1-Website/index.html
